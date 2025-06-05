@@ -119,7 +119,3 @@ To format code:
 ```powershell
 isort --profile=black . ; black --line-length 88 .
 ```
-
----
-
-For more details, see the `ASSIGNMENT.md` file and the documentation links provided in the original README.
