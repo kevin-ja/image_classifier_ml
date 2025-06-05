@@ -1,13 +1,4 @@
-kevinjesusapari: Writte a Readme file that explain the project.
-the bussines context
-the tehcnical achievments.
-a steps on how to run this porject.
-
-GitHub Copilot: Here is a README file draft that explains your project, the business context, technical achievements, and step-by-step instructions on how to run it:
-
----
-
-# Sprint Project 03: FastAPI ML App
+# Image Classifier ML API
 
 ## Business Context
 
